@@ -2,9 +2,10 @@ export const Data = [
   {
     title: "La Casa de Papel",
     description:
-      "es una serie que muestra un histórico asalto a la Fábrica Nacional de Moneda y Timbre, en Madrid, España, por parte de una banda de ladrones que planea obtener 2.400 millones de euros, y para lograrlo toma en el atraco a 67 rehenes.",
+      "es una serie que muestra un histórico asalto a la Fábrica Nacional de Moneda y Timbre, en Madrid, España.",
     posterUrl: "https://img.fruugo.com/product/8/40/93676408_max.jpg",
     rate: 5,
+    trailer: "https://www.youtube.com/embed/wKYCJEhXXWM",
   },
   {
     title: "Miracle in Cell No. 7",
@@ -13,6 +14,7 @@ export const Data = [
     posterUrl:
       "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQunFk382N3k9G7YPHx3l6owq45IXLNH09weu_kRbKjRCnjoDSj",
     rate: 1,
+    trailer: "https://www.youtube.com/embed/MHdBW0gSsjo",
   },
   {
     title: "Project Power 1",
@@ -21,6 +23,7 @@ export const Data = [
     posterUrl:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCuq8CrFWVvUHQdyqMTyIizPy1TR0CnWHQPTwM2PcUI7_bkWN",
     rate: 2,
+    trailer: "https://www.youtube.com/embed/xw1vQgVaYNQ",
   },
   {
     title: "Extraction",
@@ -29,6 +32,7 @@ export const Data = [
     posterUrl:
       "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRELEr5bWH1Z9ZlYjofDbRoW0ToFJop6YlcJuVU8lAYt2peph_n",
     rate: 3,
+    trailer: "https://www.youtube.com/embed/L6P3nI6VnlY",
   },
   {
     title: "The Trial of the Chicago 7",
@@ -37,6 +41,7 @@ export const Data = [
     posterUrl:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-W96SxgDWeTfuDLO0ooG7M3XZnk9Lu7RkxuPHX87-Q0mRHksS",
     rate: 4,
+    trailer: "https://www.youtube.com/embed/FVb6EdKDBfU",
   },
   {
     title: "Project Power 2",
@@ -45,5 +50,6 @@ export const Data = [
     posterUrl:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCuq8CrFWVvUHQdyqMTyIizPy1TR0CnWHQPTwM2PcUI7_bkWN",
     rate: 5,
+    trailer: "https://www.youtube.com/embed/xw1vQgVaYNQ",
   },
 ];

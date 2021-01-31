@@ -42,7 +42,10 @@ const MovieList = () => {
       <MovieCard
         movi={movi.filter(
           (el) =>
-            el.title.toLowerCase().includes(filterTitle.toLowerCase()) &&
+            el.title
+              .toLowerCase()
+              .trim()
+              .includes(filterTitle.toLowerCase().trim()) &&
             el.rate >= filterRate
         )}
       />
