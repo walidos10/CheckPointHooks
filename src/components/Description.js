@@ -6,7 +6,6 @@ const Description = ({ match }) => {
   const [state, setstate] = useState(Data);
 
   useEffect(() => {
-    console.log("did 1");
     setstate(() => state.find((el) => el.title === match.params.id));
   }, [match.params.id]);
 
